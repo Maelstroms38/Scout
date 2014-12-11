@@ -6,4 +6,4 @@ Scout
 
 <h2>http://www.michaelstromer.com/?project=scout<h2>
 
-<h3>Coming soon! http://signup.getscout.com<h3>
+<h3>Coming soon! http://signup.getscout.co<h3>
